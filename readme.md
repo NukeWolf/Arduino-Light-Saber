@@ -1,6 +1,6 @@
 # Arduino Light Saber
 
-![Saber](./images/saber.png)
+![Saber](./images/saber.png | width=200)
 
 ## Specs:
 
